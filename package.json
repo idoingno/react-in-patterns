@@ -4,7 +4,7 @@
     "gitbook-cli": "2.3.2"
   },
   "engines": {
-    "node": "10.23.0"
+    "node": "10.23.1"
   },
   "scripts": {
     "build": "./node_modules/.bin/gitbook build && ./node_modules/.bin/gitbook pdf && ./node_modules/.bin/gitbook mobi && ./node_modules/.bin/gitbook epub",
